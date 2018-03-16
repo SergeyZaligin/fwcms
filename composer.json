@@ -1,0 +1,16 @@
+{
+    "name": "cobweb/fwcms.loc",
+    "authors": [
+        {
+            "name": "cobweb",
+            "email": "codename.cobweb@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"fwcms\\": "vendor/fwcms",
+    		"app\\": "app"
+    	}
+    },
+    "require": {}
+}
