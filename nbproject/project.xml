@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>fwcms.loc</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>Singletone</word>
+            <word>его</word>
+            <word>заполняемое</word>
+            <word>нем</word>
+            <word>обьектом</word>
+            <word>паттерн</word>
+            <word>Св</word>
+            <word>свойств</word>
+            <word>свойства</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>

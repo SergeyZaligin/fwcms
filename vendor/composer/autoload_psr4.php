@@ -6,6 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'fwcms\\' => array($vendorDir . '/fwcms'),
+    'fwcms\\' => array($vendorDir . '/fwcms/core'),
     'app\\' => array($baseDir . '/app'),
 );
