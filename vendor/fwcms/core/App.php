@@ -1,7 +1,7 @@
 <?php
 
 namespace fwcms;
-
+use fwcms\ErrorHandler;
 /**
  * Class App
  *
@@ -20,6 +20,8 @@ class App
         self::$app = Registry::instance();
         
         $this->getParams();
+        
+        new ErrorHandler();
     }
     
     /**
