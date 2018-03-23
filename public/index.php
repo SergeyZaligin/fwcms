@@ -7,4 +7,5 @@ use fwcms\App;
 
 new App();
 
-ninja(App::$app->getProperties());
+throw new Exception('str not found', 404);
+//ninja(App::$app->getProperties());
